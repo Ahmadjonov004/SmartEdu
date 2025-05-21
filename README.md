@@ -17,5 +17,3 @@ SmartEdu is a modern and user-friendly online education platform designed to pro
 - **Tailwind CSS** – utility-first styling
 - **LocalStorage / Context API** – for user state management
 
-## 📂 Folder Structure
-
